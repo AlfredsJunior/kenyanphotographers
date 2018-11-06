@@ -1,0 +1,59 @@
+.header_loggedin{
+  background-color: #adb5bd;
+  background-position: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.profile_pic{
+  background-position: left;
+  position: relative;
+  shape-image-threshold: 50px;
+  image-resolution: 100%;
+  image-orientation: 100%;
+  border-radius: 50%;
+
+
+
+}
+.search{
+
+}
+
+.footer{
+  background-color: #adb5bd;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  resize: horizontal;
+  resize: both;
+  overflow: auto;
+
+
+}
+
+.footerform{
+  background-color: #ADD8E6;
+}
+.companyfooter{
+  background-color: #ADD8E6;
+  background-size: contain;
+  float: left;
+
+}
+
+.termsfooter{
+  background-color: #ADD8E6;
+    float: right;
+
+}
+
+img {
+    border-radius: 50%;
+}
+
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
