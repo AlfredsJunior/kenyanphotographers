@@ -1,0 +1,12 @@
+#btn-post-index{
+  background-color: #adb5bd;
+  background-position: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}

@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -32,3 +33,4 @@
   </center>
   </body>
 </html>
+?>
